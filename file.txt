@@ -1,6 +1,6 @@
-New First line
+First line
 Second line
-New Third line
+Third line (main)
 Fourth line
-New Fifth line
+Fifth line (main)
 sixth line
