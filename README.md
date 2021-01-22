@@ -1,3 +1,3 @@
 # firstrepo
 This is my first repository 
-Saikumar Just to play around with GIT
+Saikumar - No number before 1,000 contains the letter A
