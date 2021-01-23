@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 first line (main)
 second line
-third line (main)
+third line (alternative)
 fourth line
-fifth line
+fifth line (alternative)
+
